@@ -7,8 +7,6 @@ import tkinter
 import itertools
 import psutil
 import subprocess
-import pyautogui
-import datetime
 import tempfile
 import random
 import shutil
